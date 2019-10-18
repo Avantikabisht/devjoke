@@ -86,6 +86,12 @@ A URLogist
 
 ***
 
+#### Question - Wife: Why marrying you was a great mistake ?
+
+Husband : Data type mismatch
+
+***
+
 ![async](./images/async.png)
 ***
 
